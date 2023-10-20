@@ -2,7 +2,7 @@
 - 👀 I’m interested in working with data and technology to come up with precise solutions for real-world problems.
 - 🌱 I’m currently upskilling my programming skills.
 - 💞️ I’m looking for position where I can learn and refine my skills and in the process, add value to the company.
-- 📫 You can reach me over email at Gururajcs2000@gmail.com.
+- 📫 You can reach me over email at gururajcs2000@gmail.com.
 
 <!---
 Gururaj cs/Gururaj cs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
